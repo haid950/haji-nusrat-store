@@ -132,7 +132,7 @@ export function Footer() {
             aria-hidden="true"
             className="text-display mx-auto max-w-7xl overflow-hidden px-5 text-[17vw] leading-[0.82] whitespace-nowrap bg-[linear-gradient(180deg,#ffffff_0%,#ffffff_45%,rgba(255,255,255,0.18)_100%)] bg-clip-text pb-[0.06em] text-transparent drop-shadow-[0_8px_30px_rgba(2,4,10,0.6)] select-none sm:px-8 lg:text-[200px]"
           >
-            Haji Nusrat
+            Phantom
           </p>
           <div className="mx-auto mt-6 flex max-w-7xl flex-col gap-2 border-t border-white/10 px-5 pt-5 pb-6 text-[12px] text-white/60 sm:px-8 md:flex-row md:justify-between">
             <p className="label text-[10px] text-white/80">© {year} {STORE.fullName}</p>

@@ -38,7 +38,7 @@ function validate(f: Form): Errors {
 function makeOrderId() {
   const d = new Date()
   const date = `${d.getFullYear() % 100}${String(d.getMonth() + 1).padStart(2, '0')}${String(d.getDate()).padStart(2, '0')}`
-  return `HN-${date}-${Math.floor(1000 + Math.random() * 9000)}`
+  return `PH-${date}-${Math.floor(1000 + Math.random() * 9000)}`
 }
 
 function orderMessage(o: Order) {

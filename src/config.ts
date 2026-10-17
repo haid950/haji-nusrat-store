@@ -1,7 +1,7 @@
 // Store details — address and hours are still placeholders
 export const STORE = {
-  name: 'Haji Nusrat',
-  fullName: 'Haji Nusrat Online Store',
+  name: 'Phantom',
+  fullName: 'Phantom Store',
   phone: '+92 326 2853106', // shown on the site
   whatsapp: '923262853106', // digits only, with country code, for wa.me links
   email: 'gamerhaiderbayek@gmail.com',

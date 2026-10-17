@@ -210,7 +210,7 @@ export default function Character() {
         <img
           ref={frameRef}
           src={frameSrc(CENTER)}
-          alt="Haji Nusrat store mascot"
+          alt="Phantom Store mascot"
           draggable={false}
           className="absolute inset-0 h-full w-full object-contain"
         />

@@ -251,7 +251,7 @@ export function Delivery() {
 const FAQS = [
   {
     q: 'Is the PS5 brand new and genuine?',
-    a: 'Yes. Every console is brand new, in its original factory-sealed box, and comes with an invoice from Haji Nusrat Online Store.',
+    a: 'Yes. Every console is brand new, in its original factory-sealed box, and comes with an invoice from Phantom Store.',
   },
   {
     q: 'How much does it cost in total?',
